@@ -1,0 +1,40 @@
+img
+{
+    height: 350px;
+    width: 200px;
+    border-radius: 15px;
+}
+
+#googlelens_icon
+{
+    width: 200px;
+    height: 200px;
+}
+
+.mobilenet
+{
+    letter-spacing: 10px;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.test_image_and_result
+{
+    background-color: grey;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    box-shadow: 5px 10px 10px grey;
+}
+
+h5
+{
+    background-color: white;
+    border-radius: 20px;
+    height:25px;
+    width: 5px;
+}
+
+span
+{
+    color: red;
+}
